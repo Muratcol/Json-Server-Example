@@ -1,0 +1,100 @@
+{
+  "employees": [
+    {
+      "name": "Murat coly",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 6
+    },
+    {
+      "name": "Murat Colyaran",
+      "department": "şerefsiz",
+      "salary": "4144",
+      "id": 7
+    },
+    {
+      "name": "SolidWorks",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 9
+    },
+    {
+      "name": "SolidWorks",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 10
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 12
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 13
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 14
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 15
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 16
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 17
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 18
+    },
+    {
+      "name": "Serhat say",
+      "department": "Pazarlama",
+      "salary": 4000,
+      "id": 19
+    },
+    {
+      "name": "Murat coly",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 20
+    },
+    {
+      "name": "English",
+      "department": "şerefsiz",
+      "salary": "4144",
+      "id": 33
+    },
+    {
+      "name": "Murat coly",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 34
+    },
+    {
+      "name": "English",
+      "department": "Sikisci",
+      "salary": "4144",
+      "id": 35
+    }
+  ]
+}
